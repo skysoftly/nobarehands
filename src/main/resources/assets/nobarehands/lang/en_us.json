@@ -1,0 +1,13 @@
+{
+  "itemGroup.nobarehands": "Example Mod Tab",
+  "block.nobarehands.example_block": "Example Block",
+  "item.nobarehands.example_item": "Example Item",
+
+  "nobarehands.configuration.title": "No Bare Hands Configs",
+  "nobarehands.configuration.section.nobarehands.common.toml": "No Bare Hands Configs",
+  "nobarehands.configuration.section.nobarehands.common.toml.title": "No Bare Hands Configs",
+  "nobarehands.configuration.items": "Item List",
+  "nobarehands.configuration.logDirtBlock": "Log Dirt Block",
+  "nobarehands.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nobarehands.configuration.magicNumber": "Magic Number"
+}
